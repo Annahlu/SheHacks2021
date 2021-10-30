@@ -1,0 +1,13 @@
+.logo{
+    font-family: 'Russo One', sans-serif;
+    font-size: 24px;
+    color: #A4133C;
+}
+
+.logotitulo{
+    font-family: 'Russo One', sans-serif;
+    font-size: 48px;
+    color: #A4133C; 
+    -webkit-text-stroke: 1px white; /* width and color */
+}
+
