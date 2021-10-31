@@ -11,3 +11,8 @@
     -webkit-text-stroke: 1px white; /* width and color */
 }
 
+.cart-color{
+    color: #A4133C;
+   text-align: right;
+   right:0px;
+}

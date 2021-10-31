@@ -259,12 +259,12 @@ sup {
 }
 
 a {
-	color: #fed136;
+	color: #058E3F;
 	text-decoration: underline
 }
 
 a:hover {
-	color: #cba72b
+	color: #058E3F;
 }
 
 a:not([href]):not([class]),
@@ -3041,8 +3041,8 @@ fieldset:disabled .btn {
 .btn-primary.active,
 .show>.btn-primary.dropdown-toggle {
 	color: #000;
-	background-color: #feda5e;
-	border-color: #fed64a
+	background-color: #058E3F;
+	border-color: #058E3F
 }
 
 .btn-check:checked+.btn-primary:focus,
@@ -3056,8 +3056,8 @@ fieldset:disabled .btn {
 .btn-primary:disabled,
 .btn-primary.disabled {
 	color: #000;
-	background-color: #fed136;
-	border-color: #fed136
+	background-color: #058E3F;
+	border-color: #058E3F
 }
 
 .btn-secondary {
@@ -3197,21 +3197,21 @@ fieldset:disabled .btn {
 
 .btn-warning {
 	color: #000;
-	background-color: #ffc107;
-	border-color: #ffc107
+	background-color: #058E3F;
+	border-color: #058E3F
 }
 
 .btn-warning:hover {
 	color: #000;
-	background-color: #ffca2c;
-	border-color: #ffc720
+	background-color: #058E3F;
+	border-color: #058E3F
 }
 
 .btn-check:focus+.btn-warning,
 .btn-warning:focus {
 	color: #000;
-	background-color: #ffca2c;
-	border-color: #ffc720;
+	background-color: #058E3F;
+	border-color: #058E3F;
 	box-shadow: 0 0 0 .25rem rgba(217, 164, 6, .5)
 }
 
@@ -3221,8 +3221,8 @@ fieldset:disabled .btn {
 .btn-warning.active,
 .show>.btn-warning.dropdown-toggle {
 	color: #000;
-	background-color: #ffcd39;
-	border-color: #ffc720
+	background-color: #058E3F;
+	border-color: #058E3F
 }
 
 .btn-check:checked+.btn-warning:focus,
@@ -3236,8 +3236,8 @@ fieldset:disabled .btn {
 .btn-warning:disabled,
 .btn-warning.disabled {
 	color: #000;
-	background-color: #ffc107;
-	border-color: #ffc107
+	background-color: #058E3F;
+	border-color: #058E3F
 }
 
 .btn-danger {
@@ -4035,7 +4035,7 @@ fieldset:disabled .btn {
 .dropdown-item:active {
 	color: #fff;
 	text-decoration: none;
-	background-color: #fed136
+	background-color: #058E3F
 }
 
 .dropdown-item.disabled,
@@ -4083,7 +4083,7 @@ fieldset:disabled .btn {
 .dropdown-menu-dark .dropdown-item.active,
 .dropdown-menu-dark .dropdown-item:active {
 	color: #fff;
-	background-color: #fed136
+	background-color: # #fed136;
 }
 
 .dropdown-menu-dark .dropdown-item.disabled,
@@ -4225,7 +4225,7 @@ fieldset:disabled .btn {
 .nav-link {
 	display: block;
 	padding: .5rem 1rem;
-	color: #fed136;
+	color: #058E3F;
 	text-decoration: none;
 	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out
 }
@@ -4238,7 +4238,7 @@ fieldset:disabled .btn {
 
 .nav-link:hover,
 .nav-link:focus {
-	color: #cba72b
+	color: #058E3F
 }
 
 .nav-link.disabled {
@@ -4293,7 +4293,7 @@ fieldset:disabled .btn {
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
 	color: #fff;
-	background-color: #fed136
+	background-color: #058E3F;
 }
 
 .nav-fill>.nav-link,
@@ -5205,8 +5205,8 @@ fieldset:disabled .btn {
 .page-item.active .page-link {
 	z-index: 3;
 	color: #fff;
-	background-color: #fed136;
-	border-color: #fed136
+	background-color: #058E3F;
+	border-color: #058E3F
 }
 
 .page-item.disabled .page-link {
@@ -5419,7 +5419,7 @@ fieldset:disabled .btn {
 	color: #fff;
 	text-align: center;
 	white-space: nowrap;
-	background-color: #fed136;
+	background-color: #058E3F;
 	transition: width .6s ease
 }
 
@@ -5514,7 +5514,7 @@ fieldset:disabled .btn {
 	z-index: 2;
 	color: #fff;
 	background-color: #fed136;
-	border-color: #fed136
+	border-color: #fed136;
 }
 
 .list-group-item+.list-group-item {
@@ -6960,16 +6960,16 @@ fieldset:disabled .btn {
 }
 
 .link-primary {
-	color: #fed136
+	color: #058E3F;
 }
 
 .link-primary:hover,
 .link-primary:focus {
-	color: #feda5e
+	color: #058E3F
 }
 
 .link-secondary {
-	color: #868e96
+	color: #058E3F
 }
 
 .link-secondary:hover,
@@ -7429,7 +7429,7 @@ fieldset:disabled .btn {
 }
 
 .border-primary {
-	border-color: #fed136 !important
+	border-color: #058E3F !important
 }
 
 .border-secondary {
@@ -8479,7 +8479,7 @@ fieldset:disabled .btn {
 }
 
 .rounded-circle {
-	border-radius: 50% !important
+	border-radius: 50% !important 
 }
 
 .rounded-pill {
@@ -11058,12 +11058,12 @@ fieldset:disabled .btn {
 	text-transform: uppercase;
 	color: #fff;
 	border: 0;
-	background-color: #fed136;
+	background-color: #058E3F;
 	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif
 }
 
 #mainNav .navbar-brand {
-	color: #fed136;
+	color: #058E3F;
 	font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive
 }
 
@@ -11076,7 +11076,7 @@ fieldset:disabled .btn {
 
 #mainNav .navbar-nav .nav-item .nav-link {
 	font-size: 90%;
-	font-weight: 400;
+	font-weight: 700;
 	padding: .75em 0;
 	letter-spacing: 1px;
 	color: #036016;
@@ -11085,7 +11085,7 @@ fieldset:disabled .btn {
 
 #mainNav .navbar-nav .nav-item .nav-link.active,
 #mainNav .navbar-nav .nav-item .nav-link:hover {
-	color: #fed136
+	color: #058E3F
 }
 
 @media(min-width: 992px) {
@@ -11121,6 +11121,7 @@ header.masthead {
 	background-attachment: scroll;
 	background-position: center center;
 	background-size: cover
+    opacity: 50%;
 }
 
 header.masthead .intro-text {
@@ -11162,6 +11163,43 @@ header.masthead .intro-text .intro-heading {
 		font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif
 	}
 }
+
+/**/
+.card-deck .card {
+	min-width: 220px;
+}
+
+header.minimast {
+	text-align: center;
+	color: #fff;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	background-size: cover
+}
+
+header.minimast .intro-text {
+	padding-top: 50px;
+	padding-bottom: 40px;
+    margin-bottom: 40px;
+}
+
+header.minimast .intro-text .intro-lead-in {
+	font-size: 22px;
+	line-height: 22px;
+	margin-bottom: 25px;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+header.minimast .intro-text .intro-heading {
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 50px;
+	margin-bottom: 25px;
+	font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+/**/
+
 
 .service-heading {
 	margin: 15px 0;
@@ -11386,7 +11424,7 @@ header.masthead .intro-text .intro-heading {
 	color: #fff;
 	border: 7px solid #e9ecef;
 	border-radius: 100%;
-	background-color: #fed136
+	background-color: #058E3F
 }
 
 .timeline>li .timeline-image h4,
@@ -11722,8 +11760,8 @@ section .section-subheading.h3 {
 
 .btn-primary {
 	color: #fff;
-	background-color: #fed136;
-	border-color: #fed136
+	background-color: #058E3F;
+	border-color: #058E3F
 }
 
 .btn-primary:active,
