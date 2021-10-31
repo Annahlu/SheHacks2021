@@ -20,11 +20,16 @@
     width: 64%;
 }
 
+.size-comercio{
+    width: 30%;
+    position: relative;
+    left: 40%;
+}
+
 .email{
 width:40%
 }
 
 .sizeSection{
     height: 200px;
-
 }
